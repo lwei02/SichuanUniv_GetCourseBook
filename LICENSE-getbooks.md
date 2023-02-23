@@ -2,7 +2,7 @@
 协议：CC BY-NC-SA 4.0 国际
 
 ## 简而言之
-允许对该文件及其内部代码进行衍生、修订，但须注明来源或对原作者署名，且严禁用于商业用途。
+允许对该文件及其内部代码进行衍生、修订，但须注明来源或对原作者署名，且严禁用于商业用途。另外衍生代码也需按CC BY-NC-SA 4.0 国际协议，或是其兼容协议发布。
 
 ## 协议文本
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
