@@ -6,7 +6,7 @@
 2. 确认计算机中安装有Python3，若没有安装，请[点此下载](https://www.python.org/downloads/)
 3. 下载仓库，解压后，在仓库目录中运行`python3 -m pip install -r requirements.txt`
 4. 运行`python3 getChromeLib.py`，程序会自动下载对应版本的Chromedriver，或者你也可以[手动下载](https://chromedriver.storage.googleapis.com/index.html)对应版本的Chromedriver并解压后放置在`./lib/chromedriver.exe`处
-5. 修改`getBooks.py`，填入你的学工号和统一身份认证密码（不是微服务密码，不是教务系统密码），同时可以填入百度云OCR的`API_KEY`和`SECRET_KEY`
+5. 修改`getBooks.py`，填入你的学工号和统一身份认证密码（不是微服务密码，不是教务系统密码），同时可以选择填入[百度云OCR](https://cloud.baidu.com/product/ocr.html)的`API_KEY`和`SECRET_KEY`，如果不填百度云的认证信息，则会在过程中弹出一个验证码截图，可以通过手动识别填写该验证码
 6. 运行`python3 getBooks.py`，程序会自动抓取你的课程表，选择对应学期，程序将逐个查询该学期的课程所有的教材，并保存为xlsx文档
 
 ## 原理
