@@ -1,0 +1,2 @@
+# SichuanUniv_GetCourseBook
+获取四川大学本人任意学期的课程教材目录
